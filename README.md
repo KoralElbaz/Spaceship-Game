@@ -17,7 +17,7 @@
 
  
  
- [The Game- למעבר למשחק לחץ כאן](https://s-k-games.itch.io/two-cameras-game)
+ [The Game- למעבר למשחק לחץ כאן](https://sivan-koral.itch.io/spaceship-game)
  
  
 
