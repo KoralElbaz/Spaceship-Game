@@ -27,13 +27,14 @@
  
 ### מסך המשחק
 שבו נראה את החללית והיריבים שיורידים לכיוונה
-![](https://github.com/KoralElbaz/Spaceship-Game/blob/main/Assets/Images/gameScreen.PNG)
+ ![](https://github.com/KoralElbaz/Spaceship-Game/blob/main/Assets/Images/gameScreen.PNG)
  
 ### מסך סיום המשחק
 ![](https://github.com/KoralElbaz/Spaceship-Game/blob/main/Assets/Images/gameOver.PNG)
  
  
-[לחץ כאן על מנת לעבור לסקריפט שבו בוצעו השינויים](https://github.com/KoralElbaz/Spaceship-Game/blob/main/Assets/Scripts/GameOverOnTrigger2D.cs) 
+[לחץ כאן על מנת לעבור לסקריפט שבו בוצעו השינויים](https://github.com/KoralElbaz/Spaceship-Game/blob/main/Assets/Scripts/GameOverOnTrigger2D.cs)
+ 
 [לחץ כאן על מנת לעבור לסקריפט שבו בוצעו השינויים](https://github.com/KoralElbaz/Spaceship-Game/blob/main/Assets/HealthBar.cs) 
 
  
